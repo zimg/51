@@ -1,17 +1,10 @@
-app.*/data/cache/*
-app.*/data/html/*
-app.*/data/logs/*
-app.*/data/session/*
+app.*/data/*
 app.*/public/static
 app.*/public/static_g
 app.*/public/upload/*
 app.*/vendor/ounun
 app.*/vendor/cms.cc
-app.*/vendor/ounun_example
 app.*/vendor/*
-app.*/environment.txt
-app.*/.environment.ini
-app.*/.environment.php
 app.*/app/config2.php
 app.*/app/config.prod.php
 
@@ -19,5 +12,5 @@ app.*/app/config.prod.php
 .settings
 .idea
 .svn
-erl/logo-cp/app.erldoc/.sass-cache
-.dat.nosync0453.14jN96
+.sass-cache
+.dat.*
